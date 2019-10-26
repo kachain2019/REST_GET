@@ -6,6 +6,6 @@
 *** สามารถดู Library REST ได้ที่นี้ครับ 
 : https://asyrjasalo.github.io/RESTinstance/
 
-*** รับชมิดีโอคู่ไปด้วยได้เลยครับ 
+*** รับชมวิดีโอคู่ไปด้วยได้เลยครับ 
 
 : https://www.youtube.com/watch?v=FgpXwecTwr4&list=PLZ6Bx61eBnB07SRw1zZR5Pad8kheKLftt&index=13
